@@ -1,17 +1,16 @@
 [![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)](https://areekshitreddy.io)
 
 <h1 align="center">Hi 👋, I'm Pareekshit Reddy Gaddam</h1>
-<h3 align="center">🧩 Crafting Clarity from Complexity</h3>
-
-
+<h3 align="center"> A passionate data scientist with expertise in Python & SQL</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareekshitreddy&label=Profile%20views&color=0e75b6&style=flat" alt="pareekshitreddy" /> </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m a graduate with **Masters in Data Science at Neu**
 
-- 💬 Ask me about **ML & Data Science**
+- 🔭 I'm currently working on **Building an LLM from scratch**
+
+- 💬 Ask me about **Data Science & ML**
 
 - 📫 How to reach me **gaddam.pa@northeastern.edu**
 
