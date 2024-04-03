@@ -1,9 +1,11 @@
-[![MasterHead](https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif)](https://areekshitreddy.io)
+<a href="https://areekshitreddy.io">
+  <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" width="1920" height="400" alt="MasterHead">
+</a>
 
 <h1 align="center">Hi 👋, I'm Pareekshit Reddy Gaddam</h1>
 <h3 align="center"> A passionate data scientist with expertise in Python & SQL</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareekshitreddy&label=Profile%20views&color=0e75b6&style=flat" alt="pareekshitreddy" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true">
 
 
 - 🌱 I’m a graduate with **Masters in Data Science at Neu**
