@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/33197180/125737592-447b9a2b-cbdd-44d4-9e8b-a990e88cac29.gif?raw=true">
 
 
-- 🌱 I’m a graduate with **Masters in Data Science at Neu**
+- 🌱 I’m a graduate with **Masters in Data Science from Neu**
 
 - 🔭 I'm currently working on **Building an LLM from scratch**
 
