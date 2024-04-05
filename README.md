@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **gaddam.pa@northeastern.edu**
 
+- 👨‍💻 All of my projects are available at my [Portfolio Website](https://pareekshitreddy.github.io/portfoliowebsite.github.io/)
+
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/pareekshitreddy/)
 
 <h3 align="left">Connect with me:</h3>
