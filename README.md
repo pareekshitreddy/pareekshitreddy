@@ -10,7 +10,7 @@
 
 - 🌱 I’m a graduate with **Masters in Data Science from Neu**
 
-- 🔭 I'm currently working on **Building end-to-end Machine Learning systems**
+- 🔭 I'm currently **Building end-to-end Machine Learning systems**
 
 - 💬 Ask me about **Data Science & ML**
 
