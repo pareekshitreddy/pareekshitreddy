@@ -1,7 +1,3 @@
-<a href="https://pareekshitreddy.github.io/portfoliowebsite.github.io/index.html">
-  <img src="https://storage.googleapis.com/gweb-cloudblog-publish/original_images/MLOps_Kloeckner_Hero_Banner_1920x946.gif" width="1920" height="400" alt="MasterHead">
-</a>
-
 <h1 align="center">Hi 👋, I'm Pareekshit Reddy Gaddam</h1>
 <h3 align="center"> A passionate Machine Learning Engineer with expertise in building scalable and reliable ML systems.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pareekshitreddy&label=Profile%20views&color=0e75b6&style=flat" alt="pareekshitreddy" /> </p>
