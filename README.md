@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio Website](https://pareekshitreddy.github.io/portfoliowebsite.github.io/)
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/pareekshitreddyg/)
+- 📄 Know about my experiences [LinkedIn]([https://www.linkedin.com/in/pareekshitreddyg/](https://www.linkedin.com/in/pareekshitreddyg/))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
