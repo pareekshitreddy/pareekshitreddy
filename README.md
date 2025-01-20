@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Machine Learning, LLMs, and Agentic workflows**
 
-- 📫 How to reach me **gaddam.pa@northeastern.edu**
+- 📫 How to reach me **pareekshitgaddam@gmail.com**
 
 - 👨‍💻 All of my projects are available at my [Portfolio Website](https://pareekshitreddy.github.io/portfoliowebsite.github.io/)
 
